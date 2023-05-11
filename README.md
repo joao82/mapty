@@ -2,7 +2,7 @@
 
 This repository contains a project developed as an assignment on the **"Complete JavaScript Course"** by **Jonas Schmedtmann**, built using **HTML5, CSS and JavaScript**.
 
-## 📌 **Live Site URL:** <a href="https://mapty.joao-martins.net/">**Visit Now** 🚀</a>
+## 🔗 **Live URL:** <a href="https://mapty.joao-martins.net/">Visit 🚀</a>
 
 ## 📌 Tech Stack
 
@@ -13,7 +13,7 @@ This repository contains a project developed as an assignment on the **"Complete
 
 ## 📌 Overview
 
-![Screenshot](./static/images/map.gif 'Mapty app')
+![Screenshot](./static/images/map.gif?raw=true 'Mapty app')
 
 ## 🔑 Feature
 
