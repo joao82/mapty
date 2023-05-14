@@ -10,7 +10,6 @@ const inputElevation = document.querySelector('.form__input--elevation');
 
 /////////////////////////////////////////
 //  PARENT CLASS
-
 class Workout {
   date = new Date();
   id = (Date.now() + '').slice(-10);
@@ -77,7 +76,6 @@ class App {
   #mapZoomLevel = 17;
 
   constructor() {
-    //
     // Get user's position
     this._getPosition();
     // Get data from local storage
@@ -199,12 +197,10 @@ class App {
 
       // STEP 4: create a new workout object
       workout = new Cycling([lat, lng], distance, duration, elevation);
-    }
-    // STEP 5: add new object to workout array
-    this.#workouts.push(workout);
 
-    console.log(workout);
-    console.log(this.#workouts);
+      // STEP 5: add new object to workout array
+      this.#workouts.push(workout);
+    }
 
     // STEP 6: render workout on map as marker
     this._renderWorkoutMarker(workout);
@@ -290,7 +286,6 @@ class App {
 
   _moveToPopup(e) {
     const workoutEl = e.target.closest('.workout');
-    console.log(workoutEl);
     if (!workoutEl) return;
 
     const workout = this.#workouts.find(
