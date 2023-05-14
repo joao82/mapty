@@ -14,7 +14,7 @@ This repository contains a project developed as an assignment on the **"Complete
 
 ## 📌 Overview
 
-![Screenshot](./static/images/map.gif?raw=true 'Mapty app')
+![Screenshot](./static/images/mapty.gif?raw=true 'Mapty app')
 
 ## 🔑 Feature
 
