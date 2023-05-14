@@ -4,6 +4,8 @@ This repository contains a project developed as an assignment on the **"Complete
 
 ## 🔗 **Live URL:** <a href="https://mapty.joao-martins.net/">Visit 🚀</a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c7a3caa-d0f7-4e66-af82-49c8f6b5eed3/deploy-status)](https://app.netlify.com/sites/mapty-joao/deploys)
+
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/joao82)&nbsp;
